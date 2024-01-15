@@ -1,9 +1,9 @@
 # CJ-AdBlocker
-# AdBlocker
+
 ## How to setup this extension.
 #### 1. Clone this repository in your workspace using git clone https://github.com/thecyriljacob/AdBlocker
 #### 2. Open "chrome://extensions/" on your browser  and turn ON Developer Mode.
-#### 3. Click on "Load unpacked" and select your cloned repository.
+#### 3. Click on "Load unpacked" and upload the "ad-blocker" folder from your cloned repository.
 #### 4. Now your extension is all setup.
 
 ## How to use this extension for Parental Controls and add custom blocked links.
