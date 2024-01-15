@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "CJ AdBlocker",
+    "name": "CJ Ad Blocker",
     "version": "1.0.0",
     "permissions": [
       "declarativeNetRequest"
