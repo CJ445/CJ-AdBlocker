@@ -1,7 +1,8 @@
 # CJ-AdBlocker
 
 ## How to setup this extension.
-#### 1. Clone this repository in your workspace by running the command "git clone https://github.com/thecyriljacob/CJ-AdBlocker" on the terminal.
+#### 1. Clone this repository in your workspace by running the command 
+```git clone https://github.com/thecyriljacob/CJ-AdBlocker```
 #### 2. Open "chrome://extensions/" on your browser  and turn ON Developer Mode.
 #### 3. Click on "Load unpacked" and upload the "ad-blocker" folder from your cloned repository.
 #### 4. Now your extension is all setup.
